@@ -1,0 +1,8 @@
+1, Kier, Baladad, Yangtze Tower, 09123456789
+2, Ryan, Poon, Rhine Tower, 09369121518
+3, Quinn, Cabangon, Katipunan, 09481216202
+4, Anthony, Miranda, Sampaloc, 09510152025
+5, Pen, Lee, Rhine Tower, 09612182430
+6, Nino, Baladad, Oriental Mindoro, 09123456789
+7, Ryan, Christopher, Cavite, 09918273645
+8, Kier, Baladad, MRR, 09475955960
